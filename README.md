@@ -1,4 +1,4 @@
-# Metro Rota Planlayıcı
+# Sürücüsüz Metro Simülasyonu (Rota Optimizasyonu) 
 
 Bu proje, şehir içi metro ulaşım ağını modelleyerek, belirli iki nokta arasında en hızlı ve en az aktarmalı rotayı bulmayı amaçlayan bir algoritma uygulamasıdır. Kullanıcılar, çeşitli metroların istasyonları arasında gezinebilir, farklı hatlar arası aktarmaları kullanarak en verimli rotayı bulabilirler.
 
