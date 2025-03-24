@@ -54,7 +54,7 @@ metro.baglanti_ekle("K3", "K4", 8)
 # Test: AŞTİ'den OSB'ye rota
 rota = metro.en_az_aktarma_bul("M1", "K4")
 print("En az aktarmalı rota:", " -> ".join(i.ad for i in rota))
-
+```
 
 #Output
 ![Output](Output.png)
