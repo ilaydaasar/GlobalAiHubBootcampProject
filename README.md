@@ -57,5 +57,4 @@ print("En az aktarmalı rota:", " -> ".join(i.ad for i in rota))
 
 
 #Output
-!(Output.png)
-
+![Output](Output.png)
