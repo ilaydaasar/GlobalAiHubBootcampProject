@@ -58,3 +58,10 @@ print("En az aktarmalı rota:", " -> ".join(i.ad for i in rota))
 
 ## Örnek Çıktı
 ![Output](Output.png)
+
+
+## Projeyi Geliştirme Fikirleri
+1. Gerçek Zamanlı Veri Entegrasyonu: Gerçek zamanlı metro hatları ve istasyon durumu entegrasyonu yapılabilir. Örneğin, istasyonlar arası bekleme süreleri, metro sefer saatleri gibi bilgilerle daha dinamik ve güncel rotalar sunulabilir.
+2. Kullanıcı Arayüzü (UI): Proje, bir web veya masaüstü uygulamasına dönüştürülebilir. Kullanıcılar, harita üzerinde istasyonları görsel olarak seçebilir ve yönlendirme alabilirler.
+3. Daha Fazla Hat ve İstasyon Ekleme: Şu an sadece birkaç hat ve istasyon var. Daha fazla hat ve istasyon ekleyerek proje daha gerçekçi bir hale getirilebilir.
+4. Mobil Uygulama Desteği: Bu projeyi bir mobil uygulama olarak geliştirmek, kullanıcıların metro rotalarını telefonları üzerinden kolayca takip etmelerini sağlar.
